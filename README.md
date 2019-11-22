@@ -1,5 +1,5 @@
 # BeProduct RESTful API using Tokens
-C# libraries for BeProduct Styles using refresh tokens
+C# demo app for BeProduct Schema extraction
 
 # Documentation
 Please visit the [https://developers.beproduct.com/](https://developers.beproduct.com/)
