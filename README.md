@@ -1,4 +1,4 @@
-# BeProduct RESTful API using Tokens
+# BeProduct Schema Extractor
 C# demo app for BeProduct Schema extraction
 
 # Documentation
